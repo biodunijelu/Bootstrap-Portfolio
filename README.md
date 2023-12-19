@@ -52,7 +52,7 @@ Contributions are welcome! If you have suggestions, improvements, or would like 
 
 ## Mockup Design
 
-1. High Fidelity Mockup: `git mockup url []`
+1. High Fidelity Mockup: `git mockup url [https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png]`
 
 
 ## License
