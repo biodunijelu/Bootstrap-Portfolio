@@ -9,6 +9,7 @@ Welcome to my personal portfolio website! This site serves as a showcase of my w
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [mockup Design](#mockup-design)
+- [Deployment](#deployment)
 - [License](#license)
 
 ## Features
@@ -54,6 +55,9 @@ Contributions are welcome! If you have suggestions, improvements, or would like 
 
 1. High Fidelity Mockup: `git mockup url [https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png]`
 
+## Deployment
+
+Deployment: `git mockup url [https://biodunijelu.github.io/bootstrap-portfolio/]`
 
 ## License
 
