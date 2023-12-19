@@ -53,7 +53,9 @@ Contributions are welcome! If you have suggestions, improvements, or would like 
 
 ## Mockup Design
 
-1. High Fidelity Mockup: `Screenshot [https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png]`
+High Fidelity Mockup: `Screenshot [https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png]`
+
+[logo]: https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png "Screenshot"
 
 ## Deployment
 
