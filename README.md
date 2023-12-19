@@ -8,6 +8,7 @@ Welcome to my personal portfolio website! This site serves as a showcase of my w
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [mockup Design](#mockup-design)
 - [License](#license)
 
 ## Features
@@ -37,7 +38,7 @@ Welcome to my personal portfolio website! This site serves as a showcase of my w
 
 To get started with this portfolio website, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/biodunijelu/Bootstrap-Portfolio]`
 2. Open the `index.html` file in a web browser to view the website locally.
 
 ## Usage
@@ -48,6 +49,11 @@ Navigate through the website using the links in the navigation bar to explore di
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or would like to report issues, please open an issue on the GitHub repository.
+
+## Mockup Design
+
+1. High Fidelity Mockup: `git mockup url []`
+
 
 ## License
 
