@@ -53,11 +53,11 @@ Contributions are welcome! If you have suggestions, improvements, or would like 
 
 ## Mockup Design
 
-1. High Fidelity Mockup: `git mockup url [https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png]`
+1. High Fidelity Mockup: `Screenshot [https://github.com/biodunijelu/Bootstrap-Portfolio/blob/main/images/mockup_design.png]`
 
 ## Deployment
 
-Deployment: `git mockup url [https://biodunijelu.github.io/bootstrap-portfolio/]`
+Deployment: `Deploy url [https://biodunijelu.github.io/bootstrap-portfolio/]`
 
 ## License
 
